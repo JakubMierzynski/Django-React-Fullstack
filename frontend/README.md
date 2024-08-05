@@ -1,8 +1,5 @@
-# React + Vite
+DoITNow (PL)
+Projekt przedstawia stronę do tworzenia Tasków, która znajduje się na wczesnym etapie rozwoju. Wykorzystano w nim technologie Django, React, JWT Token, AXIOS oraz REST Framework. W planach jest rozwinięcie systemu rejestracji, poprawa alertów na stronie oraz przejrzystości front endu.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+DoITNow (ENG)
+This project is a website for creating tasks, currently in its early development stage. It utilizes Django, React, JWT Token, AXIOS and REST Framework technologies. Future plans include enhancing the registration system, improving site alerts, and enhancing front-end clarity.
