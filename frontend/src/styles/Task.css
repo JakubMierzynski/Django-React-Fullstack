@@ -1,34 +1,46 @@
-.note-container {
+.task-container {
     display: flex;
     flex-direction: column;
     padding: 10px;
     margin: 12px 500px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    background: rgba(0, 24, 244, 0.5)
+
   }
 
 
-  .note-title {
-    color: #333;
+.task-title {
+    color: white;
     text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+    text-decoration-line: underline;
+    margin-bottom: 10px;
+    text-decoration-line: underline;
+
+
   }
   
-  .note-content {
+.task-content {
     color: #666;
     text-align: center;
+    margin-bottom: 10px;
+
   }
   
-  .note-date {
+.task-date {
     color: #999;
     font-size: 0.8rem;
     text-align: center;
+    margin-bottom: 10px;
+
   }
   
-  .delete-button {
-    margin-top: auto; /* Ustawia przycisk na dole kontenera */
-    align-self: center; /* Centruje przycisk poziomo */
+.delete-button {
+    margin-top: auto;
+    align-self: center; 
     background-color: #aea1a0; /* Red */
     color: white;
     border: none;
@@ -40,6 +52,6 @@
     margin-bottom: 10px;
   }
   
-  .delete-button:hover {
-    background-color: #d32f2f; /* Darker red */
+.delete-button:hover {
+    background-color: #d32f2f;
   }
