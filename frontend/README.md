@@ -3,3 +3,4 @@ Projekt przedstawia stronę do tworzenia Tasków, która znajduje się na wczesn
 
 DoITNow (ENG)
 This project is a website for creating tasks, currently in its early development stage. It utilizes Django, React, JWT Token, AXIOS and REST Framework technologies. Future plans include enhancing the registration system, improving site alerts, and enhancing front-end clarity.
+
